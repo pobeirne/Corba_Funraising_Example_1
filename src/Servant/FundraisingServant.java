@@ -13,7 +13,7 @@ public class FundraisingServant extends _FundraisingImplBase {
 	//atributes
 	double fundraisingBalance = 0;
 	int donors=0;
-
+        int test = 0;
 	// Add the methods
 	public void donate(double amount){
 		fundraisingBalance = fundraisingBalance+amount;
