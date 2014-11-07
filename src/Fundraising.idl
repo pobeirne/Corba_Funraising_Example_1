@@ -1,0 +1,11 @@
+module FundraisingApp
+{
+  interface Fundraising
+  {   
+    oneway void donate(in double amount);
+    double getBalance();
+    double getAvgDonation();
+    long getNumberDonors();
+  };
+};
+
