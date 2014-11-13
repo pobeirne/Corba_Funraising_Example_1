@@ -15,7 +15,7 @@ public class FundraisingClient {
 	// Add the main method here in the next step.
     public static void main(String args[]) {
         // Put the try-catch block here in the next step.
-        try { // Add the rest of the FundraisingClient code here.
+        try { // Ad the rest of the FundraisingClient code here.
 
             //Initialize the ORB
             ORB orb = ORB.init(args, null);
